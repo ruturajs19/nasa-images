@@ -1,0 +1,14 @@
+.searchItem {
+  display: flex;
+  padding-bottom: 30px;
+  width: 600px;
+  align-items: center;
+}
+
+.searchItem-details {
+  text-align: left;
+}
+
+.searchItem-text {
+  margin-left: 15px;
+}

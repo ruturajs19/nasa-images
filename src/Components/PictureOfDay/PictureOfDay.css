@@ -1,0 +1,27 @@
+.main-image {
+  width: 800px;
+  height: 500px;
+}
+
+.pod-header {
+  display: flex;
+  justify-content: center;
+}
+
+.pod-title {
+  margin-right: 170px;
+}
+
+.searchbox {
+  display: flex;
+  align-items: center;
+  margin-left: 170px;
+}
+.main-desc-container {
+  text-align: -webkit-center;
+}
+.main-desc {
+  width: 800px;
+  justify-content: center;
+  text-align: justify;
+}

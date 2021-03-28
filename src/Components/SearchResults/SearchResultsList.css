@@ -1,0 +1,23 @@
+.search-results-container {
+  padding-left: 125px;
+}
+.page-selector {
+  display: flex;
+}
+.page-index {
+  padding-right: 10px;
+  cursor: pointer;
+}
+.page-index-selected {
+  text-decoration: underline;
+}
+.related-searches {
+  display: block;
+  text-align: left;
+}
+.related-searches-items {
+  display: flex;
+}
+.related-searches-item {
+  padding-right: 15px;
+}
